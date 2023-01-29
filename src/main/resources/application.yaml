@@ -1,0 +1,5 @@
+spring:
+  datasource:
+    username: pokemon
+    password: pokemon
+    url: jdbc:mysql://localhost:3306/pokemon
